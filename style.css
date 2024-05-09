@@ -1,0 +1,45 @@
+.header {
+  height: 100px;
+  background-color: red;
+}
+.container {
+  overflow: hidden;
+  /* border: 10px solid darkcyan; */
+}
+.blog {
+  float: left;
+  width: 70%;
+  height: 150px;
+  background-color: green;
+}
+.contact {
+  float: right;
+  width: 30%;
+  height: 150px;
+  background-color: blue;
+}
+.box {
+  float: left;
+  width: 33.3%;
+  height: 100px;
+}
+.item1 {
+  background-color: lightcoral;
+}
+.item2 {
+  background-color: gray;
+}
+.item3 {
+  background-color: orchid;
+}
+. .footer {
+  /* clear: both; */
+  /* height: 100px;
+  background-color: yellow;
+}  */
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  padding: 50;
+}
